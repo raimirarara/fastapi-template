@@ -1,5 +1,4 @@
 from openai import OpenAI
-from sklearn import base
 import streamlit as st
 import requests
 
